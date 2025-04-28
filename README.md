@@ -180,7 +180,3 @@ Feel free to contribute to this learning project by:
 2. Improving existing examples
 3. Adding better comments
 4. Creating more practical exercises
-
-## License
-
-ISC License
